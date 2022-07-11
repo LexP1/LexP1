@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Alexander
+- 👀 I’m interested in mechanical engineering, programing
+- 🌱 I’m currently learning programing in GeekBrains University
+- 💞️ I’m looking to collaborate on new startup projects
+- 📫 How to reach me by e-mail anpelevin@gmail.com
